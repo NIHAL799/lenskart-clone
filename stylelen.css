@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Mulish', sans-serif;
+}
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    height: 10;
+}
+.fnav input{
+    width: 700px;
+    height: 27px;
+    border-radius: 3px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 16px;
+    margin-left: 100px;
+}
+.fnav .cussup img{
+    height: 33px;
+    width: 125px;
+    margin-top: 10%;
+    margin-left: 20%;
+
+}
+.fnav p{
+    margin-top: 20px;
+    font-size: 15px;
+}
+.snav{
+    display: flex;
+    padding-left: 0%;
+    justify-content: space space-around;
+    padding: 20px;
+    
+    background-color: rgb(251, 249, 247);
+
+    
+}
+.snav p{
+    margin-left: 1%;
+    font-size: small;
+    color: #000042;
+    
+}
+.snav p:hover{
+    border-bottom: 2px solid rgb(13,13,46);
+    color: rgb(13,13,46);
+    cursor: pointer;
+}
+.snav #img-one{
+    padding-left: 19%;
+    
+}
+.snav img{
+    width: 5% ;
+    padding-right: 0%;
+    
+}
+.lens{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(245, 245, 245);
+}
+.lens img{
+    width: 90%;
+    border: 2px solid white;
+    border-radius: 5px;
+    height: 150px;
+    margin-left: 5%;
+}
+
+.lens p{
+    font-size: 15px;
+    margin-left: 35%;
+}
+.main button img{
+    width: 100%;
+}
+.twomain img{
+    width: 100%;
+}
+.threemain img{
+    width: 100%;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(26, 26, 84);
+    color: white;
+    width: 100%;
+
+}
+.footer .list{
+    margin-inline: 33px;
+    margin-top: 5%
+}
+.footer .head{
+    margin-left: -0%;
+    width: 100%;
+    height: 10%;
+}
+.footer .paragraph{
+    margin-top: 2%;
+    width: 100%;
+    margin-left: 0%;
+}
+.footer .paragraph p{
+    margin-left: 1px;
+    width: 100%;
+
+}
+
+
+
